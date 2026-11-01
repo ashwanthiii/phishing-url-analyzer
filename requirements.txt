@@ -1,0 +1,5 @@
+# Phishing Analyzer
+# Python 3.10 or later
+#
+# No third-party packages are required.
+# All functionality uses Python standard libraries.

@@ -1,0 +1,7 @@
+url,expected_observation
+https://example.com,Reference domain with no configured warning indicators
+http://192.0.2.10/account,IP address and HTTP indicators
+https://example.com@evil.example/login,At symbol and suspicious keyword indicators
+https://bit.ly/example,URL shortener indicator
+http://secure-login-account.example.zip,HTTP keyword and TLD indicators
+https://xn--example-9d0b.com,Punycode indicator
